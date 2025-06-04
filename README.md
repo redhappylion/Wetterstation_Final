@@ -4,8 +4,6 @@ Datum: 04.06.2025
 
 ## Projektübersicht  
 Dieses Teilprojekt erweitert die bestehende ESP32-C3 Wetterstation um eine intelligente Statusanzeige mit der eingebauten RGB-LED. Ziel war es, den Verbindungs- und Sensorstatus durch klare Farbgebung direkt am Gerät sichtbar zu machen – insbesondere bei fehlender WLAN-Verbindung.
-![Schaltung](C:\Users\Startklar\Downloads\Schaltung.jpg)
-
 
 ## Verwendete Komponenten
 
